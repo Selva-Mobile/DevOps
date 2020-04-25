@@ -30,10 +30,7 @@
 			<c:if test="${empty msg}">
 				Welcome Welcome!
 			</c:if>
-		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-		</p>
-	</div>
+		</div>
 </div>
 
 <div class="container">
@@ -41,15 +38,13 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Mitosis Technologies</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h3>Contact @ +91-9500148962</h3>
 		</div>	
 	</div>
 
 
 	<hr>
-	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
-	</footer>
+	
 </div>
 
 <spring:url value="/resources/core/css/hello.js" var="coreJs" />
