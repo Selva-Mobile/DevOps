@@ -27,7 +27,7 @@
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome
+				Welcome to
 			</c:if>
 		</div>
 </div>
