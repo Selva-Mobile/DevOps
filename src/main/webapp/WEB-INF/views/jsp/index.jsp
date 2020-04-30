@@ -23,7 +23,7 @@
 		<h1>${title}</h1>
 		<p>
 			<c:if test="${not empty msg}">
-				Hello ${msg}
+				Hello 
 			</c:if>
 
 			<c:if test="${empty msg}">
